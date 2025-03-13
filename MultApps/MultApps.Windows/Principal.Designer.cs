@@ -55,7 +55,7 @@
             // menuCalculadoraImc
             // 
             this.menuCalculadoraImc.Name = "menuCalculadoraImc";
-            this.menuCalculadoraImc.Size = new System.Drawing.Size(180, 22);
+            this.menuCalculadoraImc.Size = new System.Drawing.Size(178, 22);
             this.menuCalculadoraImc.Text = "Calculadora de IMC";
             this.menuCalculadoraImc.Click += new System.EventHandler(this.menuCalculadoraImc_Click);
             // 
@@ -63,7 +63,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 405);
             this.Controls.Add(this.menuStripPrincipal);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStripPrincipal;
